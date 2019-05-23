@@ -7,7 +7,7 @@
 0.00001,          nanometer, nanometern
 0.000001,         pikometer, pikometern
 
-0,0000000001,     angström
+0.0000000001,     angström
 1609.344,         meilen, meile
 1852,             seemeile, seemeilen
 0.9144,           yard
