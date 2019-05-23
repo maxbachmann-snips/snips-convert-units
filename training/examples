@@ -1,6 +1,6 @@
-sag mir was [](value) [](unit) in [](unit) sind
-bitte rechne [](value) [](unit) in [](unit) um
-rechne [](value) [](unit) in [](unit) um
-wie viele [](unit) sind [](value) [](unit)
-was sind [](value) [](unit) in [](unit)
-wie viele [](unit) sind [](value) [](unit)
+sag mir was {{ value + unit }} in {{ unit }} sind
+bitte rechne {{ value + unit }} in {{ unit }} um
+rechne {{ value + unit }} in {{ unit }} um
+wie viele {{ unit }} sind {{ value + unit }}
+was sind {{ value + unit }} in {{ unit }}
+wie viele {{ unit }} sind {{ value + unit }}
