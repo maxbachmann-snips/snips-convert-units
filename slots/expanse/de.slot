@@ -1,9 +1,16 @@
-mm2, quadratmillimeter, quadratmillimetern
-cm2, quadratzentimeter, quadratzentimetern
-cm2, quadratdezimeter, quadratdezimetern
-m2, quadratmeter, quadratmetern
-a, ar
-ha, hektar
-km2, quadratkilometer, quadratkilometern
+0.000000000001, quadratpikometer, quadratpikometern
+0.0000000001,   quadratnanometer, quadratnanometern
+0.00000001,     quadratmikrometer, quadratmikrometern
+0.000001,       quadratmillimeter, quadratmillimetern
+0.0001,         quadratzentimeter, quadratzentimetern
+0.01,           quadratdezimeter, quadratdezimetern
+1,              quadratmeter, quadratmetern
+100,            ar
+10000,          hektar
+1000000,        quadratkilometer, quadratkilometern
 
-mi2, quadratmeile, quadratmeilen
+2589988.11,     quadratmeile, quadratmeilen
+4046.856422,    acre
+0.83612736,     quadratyard
+0.09290304,     quadratfuß
+0.00064516,     quadratzoll
