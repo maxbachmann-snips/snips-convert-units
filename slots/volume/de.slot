@@ -1,0 +1,20 @@
+1000000000,                             kubikkilometer, kubikkilometern
+1,                                      kubikmeter, kubikmetern
+0.001,                                  kubikdezimeter, kubikdezimetern
+0.000001,                               kubikzentimeter, kubikzentimetern
+0.000000001,                            kubikmillimeter, kubikmillimetern
+0.000000000000000001,                   kubikmikrometer, kubikmikrometern
+0.000000000000000000000000001,          kubiknanometer, kubiknanometern
+0.000000000000000000000000000000000001, kubikpikometer, kubikpikometern
+
+0.001,                                  liter, litern
+0.0001,                                 deziliter, dezilitern
+0.00001,                                zentiliter, zentilitern
+0.000001,                               milliliter, millilitern
+0.1589872949,                           barrel
+0.00454609,                             britische gallone, britische gallonen
+0.003785411784,                         amerikanische gallone, amerikanische gallonen
+0.004,                                  metrische gallone, metrische gallonen, gallone, gallonen
+0.764554858,                            kubikyard, kubikyards
+0.02831684659,                          kubikfuß
+0.000016387064,                         kubikzoll
