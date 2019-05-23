@@ -1,12 +1,23 @@
-gt, gigatonne
-mt, megatonne
-t, tonne
-kg, kilo, kilogramm
-g, gramm
-mg, milligramm
-ug, mikrogramm
-ng, nanogramm
-pg, picogramm
+1000000000000,                         gigatonne, gigatonnen
+1000000000,                            megatonne, megatonnen
+1000000,                               kilotonne, kilotonnen
+1000,                                  tonne, tonnen
+1,                                     kilo, kilogramm
+0.1,                                   hektogramm
+0.01,                                  dekagramm
+0.001,                                 gramm
+0.000001,                              milligramm
+0.000000001,                           mikrogramm
+0.000000000001,                        nanogramm
+0.000000000000001,                     picogramm
 
-lb, pfund
-oz, unze
+100,                                   doppelzentner, doppelzentnern
+50,                                    zentner, zentnern
+0.5,                                   pfund
+1016.046909,                           long tons, long ton, britische tonne, britische tonnen
+907.18474,                             short tons, short ton, amerikanische tonne, amerikanische tonnen
+6.35029318,                            stones, stone
+0.453592371,                           pfund, pfunde
+0.0283495,                             unze, unzen
+0.0311034768,                          feinunze, feinunzen
+0.00000000000000000000000000166053904, atomare masseneinheit, atomare masseneinheiten
