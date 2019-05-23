@@ -1,17 +1,21 @@
-Tm, terameter, terametern
-Gm, gigameter, gigametern
-Mm, megameter, megametern
-km, kilometer, kilometern
-m, meter, metern
-cm, zentimeter, zentimetern
-mm, millimeter, millimetern
-nm, nanometer, nanometern
-pm, pikometer, pikometern
-fm, femtometer, femtometern
-am, attometer, attometern
+1000,             kilometer, kilometern
+1,                meter, metern
+0.1,              dezimeter, dezimetern
+0.01,             zentimeter, zentimetern
+0.001,            millimeter, millimetern
+0.0001,           mikrometer, mikrometern
+0.00001,          nanometer, nanometern
+0.000001,         pikometer, pikometern
 
-mi, meilen, meile
-yd, yard
-ft, fuß
-sm, seemeile
-in, zoll, inch, inches
+0,0000000001,     angström
+1609.344,         meilen, meile
+1852,             seemeile, seemeilen
+0.9144,           yard
+0.3048,           fuß
+0.0254,           zoll, inch, inches
+149597870700,     astronomische einheit, astronomische einheiten, astronomischen einheiten
+9460730473000000, lichtjahre, lichtjahren
+25902068370000,   lichttage, lichttagen
+1079252849000,    lichtstunde, lichtstunden
+17987547480,      lichtminute, lichtminuten
+299792458,        lichtsekunde, lichtsekunden
